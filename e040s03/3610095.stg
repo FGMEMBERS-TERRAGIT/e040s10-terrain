@@ -1,0 +1,6 @@
+OBJECT_BASE 3610095.btg
+OBJECT HKLU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.910582 -2.252960 4.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.910171 -2.246086 5.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.918980 -2.250902 8.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.913965 -2.254702 6.2 0.00
